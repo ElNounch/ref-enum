@@ -1,0 +1,23 @@
+{
+  "name": "ref-enum",
+  "version": "0.1.0",
+  "description": "Enum type for FFI",
+  "main": "enum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNounch/ref-enum.git"
+  },
+  "dependencies": {
+    "ref": "^1.0.2",
+    "xtend": "^4.0.0"
+  },
+  "author": "ElNounch <contact@elnounch.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElNounch/ref-enum/issues"
+  },
+  "homepage": "https://github.com/ElNounch/ref-enum"
+}
